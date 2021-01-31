@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="rdbh">Heavy Weight</string>
+    <string name="rdbw">Welter Weight</string>
+    <string name="rdbm">Middle Weight</string>
+    <string name="txttitle">Boxing</string>
+    <string name="txtwins">Wins</string>
+    <string name="txtloss">loss</string>
+    <string name="txttitles">Titles</string>
+    <string name="txtdiv">Divisions</string>
+    <string name="txtwelter">Welcom to Welter Weight Division</string>
+    <string name="txtmiddle">Welcome To middle Weight Division</string>
+    <string name="txtheavy">Welcome to Heavy Weight Division</string>
+    <string name="btngo">Go</string>
+    <string name="txtage">Age</string>
+    <string name="rdbalert">Not Interested In boxing</string>
+    <string name="welcome">Welcom To The best sport Ever !!</string>
+    <string name="wins">Wins</string>
+    <string name="loss">Losses</string>
+    <string name="Titels">titels</string>
+    <string name="divis">Divisions</string>
+    <string name="winsW">Wins</string>
+    <string name="lossesw">losses</string>
+    <string name="Titelsw">Titels</string>
+    <string name="Divisionsw">Divisions</string>
+    <string name="winsm">Wins</string>
+    <string name="Lossesm">Losses</string>
+    <string name="Titelsm">Titels</string>
+    <string name="Divisionsm">Divisions</string>
+
+
+    <array name="Heavy">
+        <item>Deaonty Wilder(USA)</item>
+        <item>Anthony Joshua(UK)</item>
+        <item>Tyson Fury(UK)</item>
+    </array>
+    <array name="Welter">
+        <item>Keith Thurman(USA)</item>
+        <item>Errol Spence(USA)</item>
+        <item>Manny Pacquiao(Philip)</item>
+    </array>
+    <array name="Middle">
+        <item>Gennady Golovken(kazakh)</item>
+        <item>Canelo Alvarez(mexico)</item>
+        <item>Danial Jacobs(USA)</item>
+    </array>
+</resources>

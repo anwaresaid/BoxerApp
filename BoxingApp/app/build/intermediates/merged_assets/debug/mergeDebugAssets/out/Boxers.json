@@ -1,0 +1,112 @@
+{
+  "boxers":[
+    {
+      "name":"Manny Pacquiao",
+      "wins":"60",
+      "titles":"WBA",
+      "losses":"7",
+      "division":"welterweight",
+      "divisions":"8",
+      "img":"aj"
+    },
+    {
+      "name":"Keith Therman",
+      "wins":"28",
+      "titles":"WBA",
+      "losses":"0",
+      "division":"welterweight",
+      "divisions":"1",
+      "img":"keith"
+    },
+    {
+      "name":"Errol Spence Jr",
+      "wins":"24",
+      "titles":"IBF",
+      "losses":"0",
+      "division":"welterweight",
+      "divisions":"1",
+      "img":"errol"
+    },
+    {
+      "name":"Terence Crawford",
+      "wins":"34",
+      "titles":"WBO",
+      "losses":"0",
+      "division":"welterweight",
+      "divisions":"1",
+      "img":"terence"
+    },
+    {
+      "name":"Saul Alvarez",
+      "wins":"51",
+      "titles":"WBAS,WBA",
+      "losses":"1",
+      "division":"middleweight",
+      "divisions":"3",
+      "img":"canelo"
+    },
+    {
+      "name":"Gennady Golovkin",
+      "wins":"38",
+      "titles":"none",
+      "losses":"1",
+      "division":"middleweight",
+      "divisions":"1",
+      "img":"gennady"
+    },
+    {
+      "name":"Daniel jacobs",
+      "wins":"35",
+      "titles":"ibf",
+      "losses":"1",
+      "division":"middleweight",
+      "divisions":"1",
+      "img":"daniel"
+    },
+    {
+      "name":"Jeff Horn",
+      "wins":"19",
+      "titles":"none",
+      "losses":"1",
+      "division":"middleweight",
+      "divisions":"1",
+      "img":"jeff"
+    },
+    {
+      "name":"Anthony Joshua",
+      "wins":"22",
+      "titles":"IBF,WBAS,IBO,WBO",
+      "losses":"0",
+      "division":"heavyweight",
+      "divisions":"1",
+      "img":"aj"
+    },
+    {
+      "name":"Deontay Wilder",
+      "wins":"40",
+      "titles":"WBC",
+      "losses":"0",
+      "division":"heavyweight",
+      "divisions":"1",
+      "img":"deonty"
+    },
+    {
+      "name":"Tyson Fury",
+      "wins":"27",
+      "titles":"none",
+      "losses":"0",
+      "division":"heavyweight",
+      "divisions":"1",
+      "img":"tyson"
+    },
+    {
+      "name":"Dillian Whyte",
+      "wins":"25",
+      "titles":"none",
+      "losses":"1",
+      "division":"heavyweight",
+      "divisions":"1",
+      "img":"dillian"
+    },
+  ]
+}

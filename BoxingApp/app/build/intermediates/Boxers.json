@@ -1,0 +1,22 @@
+{
+  "books":[
+    {
+      "name":"LOTR: Two Towers",
+      "author":"J.R.R. Tolkien",
+      "year":"1982",
+      "img":"twotowers.jpg"
+    },
+    {
+      "name":"Hunger Games",
+      "author":"Suzanne Collins",
+      "year":"2010",
+      "img":"hungergames.jpg"
+    },
+    {
+      "name":"Alchemist",
+      "author":"Paulo Coelho",
+      "year":"1993",
+      "img":"alchemist.jpg"
+    }
+  ]
+}
